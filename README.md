@@ -1,8 +1,5 @@
 # Multi-layer State Evolution Under Random Convolutional Design
 
-_This code is provided as anonymous supplemental material during the NeurIPS 2022 review process. Please do not distribute_. 
-
----
 
 ## Installation
 
